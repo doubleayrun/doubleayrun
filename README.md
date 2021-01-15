@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Aaron (he/him), and I'm a perpetually sleepy dude. I'm diving into the world of fullstack webdev for both personal and professional reasons! 
+Currently learning JavaScript.
 
 <!--
 **doubleayrun/doubleayrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
